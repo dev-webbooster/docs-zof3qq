@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-uefho2.gasnatturalpago.top/sitemap.xml
